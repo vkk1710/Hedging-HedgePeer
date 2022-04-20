@@ -27,6 +27,7 @@ The data is in the Jsonlines format (each line is a json object). Each line cont
 
 Example Entry:
 
+```
 {
     "Review_id": "B14uJzW0b_R3",
     "Sentences": [
@@ -45,6 +46,7 @@ Example Entry:
         ...
     ]
 }
+```
 
 ### Data Fields
 
