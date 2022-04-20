@@ -1,5 +1,5 @@
 # HedgePeer
-An Uncertainty Detection Dataset based on Peer Reviews
+A Dataset for Uncertainty Detection on Peer Reviews
 
 ## Outline
 
