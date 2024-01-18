@@ -115,7 +115,3 @@ Below are our results for Hedge cue and Span detection of several baselines on t
 | MTL with Sentiment+POS LF | SciBERT | 96.7 |
 | MTL with Sentiment+POS LF | BERT | 97.0 |
 | MTL with Sentiment+POS LF | XLNet | 97.1 |
-
-## Acknowledgement
-
-## Bib
